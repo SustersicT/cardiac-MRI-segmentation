@@ -30,7 +30,8 @@ Use of the M&Ms dataset is subject to its official terms and citation requiremen
 
 The work is described in the paper:
 Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski, “How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model”, arXiv:2404.09957 (2024)
-2. We also acknoledge the original SAM source code. The code and model checkpoints are available at facebookresearch/segment-anything
+
+2. We also acknoledge the original [SAM](facebookresearch/segment-anything) source code.
 
 Please cite the original work if you use SAM in your research or project:
 A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. Berg, W.-Y. Lo, P. Dollár, R. Girshick, “Segment Anything”, arXiv:2304.02643, 2023.
