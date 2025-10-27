@@ -9,10 +9,9 @@ Acknowledgements
    Bernard, A. Lalande, C. Zotti, F. Cervenansky, et al. Deep Learning Techniques for Automatic MRI Cardiac Multi-structures Segmentation and Diagnosis: Is the Problem Solved? IEEE Transactions on Medical Imaging, vol. 37, no. 11, pp. 2514-2525, Nov. 2018. https://doi.org/10.1109/TMI.2018.2837502
    The data are anonymized and were handled under the regulations of the local ethical committee. Use of the ACDC dataset is subject to its official terms and citation requirements as listed on the ACDC website
 
-3. This project also uses the [M&Ms](https://www.ub.edu/mnms/) dataset (Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Segmentation Challenge), provided as part of the MICCAI 2020 challenge and hosted by University of Barcelona. The dataset comprises heterogeneous cine-MRI data from multiple centres, vendors and disease conditions (including healthy subjects and various cardiomyopathies) and is intended to enable research on model generalisation across clinical sites and imaging settings. 
-
-Please cite the following paper when using this dataset: V. M. Campello, P. Gkontra, C. Izquierdo, C. Martin-Isla, A. Sojoudi, P. M. Full, K. Maier-Hein, et al. “Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge” IEEE Transactions on Medical Imaging, 2021. DOI: 10.1109/TMI.2021.3090082. 
-Use of the M&Ms dataset is subject to its official terms and citation requirements — please refer to the challenge website for details
+3. This project also uses the [M&Ms](https://www.ub.edu/mnms/) dataset (Multi-Centre, Multi-Vendor & Multi-Disease Cardiac Segmentation Challenge), provided as part of the MICCAI 2020 challenge and hosted by University of Barcelona. The dataset comprises heterogeneous cine-MRI data from multiple centres, vendors and disease conditions (including healthy subjects and various cardiomyopathies) and is intended to enable research on model generalisation across clinical sites and imaging settings.
+   Please cite the following paper when using this dataset: V. M. Campello, P. Gkontra, C. Izquierdo, C. Martin-Isla, A. Sojoudi, P. M. Full, K. Maier-Hein, et al. “Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge” IEEE Transactions on Medical Imaging, 2021. DOI: 10.1109/TMI.2021.3090082.
+   Use of the M&Ms dataset is subject to its official terms and citation requirements — please refer to the challenge website for details
 
 **Code acknoledgement**:
 
